@@ -1,11 +1,12 @@
 <div align="center">
 
-  <!-- HERO BANNER -->
+  <!-- HERO BANNER (SANITIZED SVG XML ENTITIES) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24&height=220&section=header&text=Haikel%20%7C%20Kaell&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Creative%20Developer%20%E2%80%A2%203D%20and%20Spatial%20Web%20Technologist&descSize=18&descAlignY=62" width="100%" />
 
   <p align="center">
     <a href="https://spiderman-portofolio.vercel.app"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-spiderman--portofolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     <a href="https://haikel-spatial-gallery.vercel.app"><img src="https://img.shields.io/badge/3D_GALLERY-haikel--spatial--gallery-06B6D4?style=for-the-badge&logo=three.js&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=hekall21&label=PROFILE+VIEWS&style=for-the-badge&color=8B5CF6" />
     <a href="https://wa.me/62895320959499"><img src="https://img.shields.io/badge/WHATSAPP-DIRECT_CHAT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   </p>
 
@@ -68,12 +69,12 @@ mantra: "Turning lines of code into immersive spatial realities."
 ### 📊 GitHub Activity & Real-Time Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hekall21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090A0F&title_color=6366F1&icon_color=06B6D4&text_color=94A3B8" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekall21&layout=compact&theme=tokyonight&hide_border=true&bg_color=090A0F&title_color=6366F1&text_color=94A3B8" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hekall21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090A0F&title_color=6366F1&icon_color=06B6D4&text_color=94A3B8" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hekall21&layout=compact&theme=tokyonight&hide_border=true&bg_color=090A0F&title_color=6366F1&text_color=94A3B8" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hekall21&theme=tokyonight&hide_border=true&background=090A0F&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=hekall21&theme=tokyonight&hide_border=true&background=090A0F&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" width="49%" />
 </div>
 
 ---
