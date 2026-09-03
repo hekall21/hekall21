@@ -20,24 +20,32 @@
 identity: "Muhammad Haikel Saleh (Kaell)"
 role: "Creative Frontend & Spatial Web Technologist"
 location: "Jakarta, Indonesia 🇮🇩"
-core_focus: ["WebGL & Three.js", "Interactive UI/UX", "Fullstack Engineering"]
+core_focus: ["WebGL & Three.js", "Interactive UI/UX", "Clean Backend Architecture"]
 status: "Open to Full-time, High-impact Freelance & Creative Collaborations"
 mantra: "Turning lines of code into immersive spatial realities."
 ```
 
 ---
 
-### 🌐 Live Interactive Web Applications (GitHub Pages)
+### 🌐 Featured Live Web Applications (21 Repositories Portfolio)
 
-| Interactive Web App | Architectural Specification | Live Demo Link |
-| :--- | :--- | :--- |
-| **🗺️ [Developer Roadmap Navigator](https://github.com/hekall21/developer-roadmap-tracker)** | `DEVELOPER_ROADMAP.md / roadmap.sh` | 👉 **[Launch Web App](https://hekall21.github.io/developer-roadmap-tracker/)** |
-| **🪐 [Produx Kinetic Studio](https://github.com/hekall21/produx-kinetic-studio-web)** | `DESIGN_2.md (Produx Studio)` | 👉 **[Launch Web App](https://hekall21.github.io/produx-kinetic-studio-web/)** |
-| **📐 [CAD Blueprint Canvas](https://github.com/hekall21/cad-blueprint-canvas)** | `DESIGN_4.md (Heron AI CAD)` | 👉 **[Launch Web App](https://hekall21.github.io/cad-blueprint-canvas/)** |
-| **⚡ [Linear Command Vault](https://github.com/hekall21/linear-command-vault)** | `DESIGN.md (Linear Neo-Dark)` | 👉 **[Launch Web App](https://hekall21.github.io/linear-command-vault/)** |
-| **🛠️ [Vinss Automation Suite](https://github.com/hekall21/vinss-automation-suite-web)** | `VINSS_CODE_SNIPPETS.md` | 👉 **[Launch Web App](https://hekall21.github.io/vinss-automation-suite-web/)** |
-| **🕸️ [Spider-Man Portfolio](https://github.com/hekall21/spiderman-portofolio)** | `Cinematic Neo-Brutalist` | 👉 **[Launch Web App](https://spiderman-portofolio.vercel.app)** |
-| **🌌 [Spatial 3D Gallery](https://github.com/hekall21/haikel-spatial-gallery)** | `Three.js WebXR` | 👉 **[Launch Web App](https://haikel-spatial-gallery.vercel.app)** |
+| Interactive Web App | Aesthetic / Architectural Design | Live Demo Link | Recommended Hosting |
+| :--- | :--- | :--- | :--- |
+| **🕸️ [Spider-Man Portfolio](https://github.com/hekall21/spiderman-portofolio)** | `Cinematic Neo-Brutalist` | 👉 **[Launch App](https://spiderman-portofolio.vercel.app)** | 🚀 **Vercel (Active)** |
+| **🌌 [Spatial 3D Gallery](https://github.com/hekall21/haikel-spatial-gallery)** | `Three.js WebXR` | 👉 **[Launch App](https://haikel-spatial-gallery.vercel.app)** | 🚀 **Vercel (Active)** |
+| **📜 [Claude AI Studio](https://github.com/hekall21/claude-ai-studio)** | `Anthropic Claude Terracotta` | 👉 **[Launch App](https://hekall21.github.io/claude-ai-studio/)** | 🚀 **Vercel (Top Pick)** |
+| **⚡ [Supabase Database Hub](https://github.com/hekall21/supabase-database-hub)** | `Supabase Dark Emerald` | 👉 **[Launch App](https://hekall21.github.io/supabase-database-hub/)** | 🚀 **Vercel (Top Pick)** |
+| **💳 [Stripe Payment Matrix](https://github.com/hekall21/stripe-payment-matrix)** | `Stripe Blurple Gradient` | 👉 **[Launch App](https://hekall21.github.io/stripe-payment-matrix/)** | 🚀 **Vercel (Top Pick)** |
+| **🎵 [Spotify Spatial Audio](https://github.com/hekall21/spotify-spatial-audio)** | `Spotify Obsidian Noir` | 👉 **[Launch App](https://hekall21.github.io/spotify-spatial-audio/)** | 🚀 **Vercel (Top Pick)** |
+| **🍎 [Apple visionOS Spatial UI](https://github.com/hekall21/apple-spatial-window-ui)** | `Apple Human Interface Spec` | 👉 **[Launch App](https://hekall21.github.io/apple-spatial-window-ui/)** | 🚀 **Vercel (Top Pick)** |
+| **🗺️ [Developer Roadmap Tracker](https://github.com/hekall21/developer-roadmap-tracker)** | `DEVELOPER_ROADMAP.md Standard` | 👉 **[Launch App](https://hekall21.github.io/developer-roadmap-tracker/)** | 📦 GitHub Pages / Vercel |
+| **🪐 [Produx Kinetic Studio](https://github.com/hekall21/produx-kinetic-studio-web)** | `DESIGN_2.md (Produx Studio)` | 👉 **[Launch App](https://hekall21.github.io/produx-kinetic-studio-web/)** | 📦 GitHub Pages / Vercel |
+| **📐 [CAD Blueprint Canvas](https://github.com/hekall21/cad-blueprint-canvas)** | `DESIGN_4.md (Heron AI CAD)` | 👉 **[Launch App](https://hekall21.github.io/cad-blueprint-canvas/)** | 📦 GitHub Pages / Vercel |
+| **⚡ [Linear Command Vault](https://github.com/hekall21/linear-command-vault)** | `DESIGN.md (Linear Neo-Dark)` | 👉 **[Launch App](https://hekall21.github.io/linear-command-vault/)** | 📦 GitHub Pages / Vercel |
+| **🏛️ [Clean Architecture REST](https://github.com/hekall21/clean-architecture-api-core)** | `Onion Layers Architecture` | 👉 **[Launch App](https://hekall21.github.io/clean-architecture-api-core/)** | 🚀 **Vercel Serverless** |
+| **👟 [Nike Kinetic Telemetry](https://github.com/hekall21/nike-kinetic-telemetry)** | `Nike Kinetic Volt` | 👉 **[Launch App](https://hekall21.github.io/nike-kinetic-telemetry/)** | 📦 GitHub Pages |
+| **⌨️ [Raycast Quick Launcher](https://github.com/hekall21/raycast-quick-launcher)** | `Raycast Desktop Spotlight` | 👉 **[Launch App](https://hekall21.github.io/raycast-quick-launcher/)** | 📦 GitHub Pages |
+| **🛠️ [Vinss Automation Suite](https://github.com/hekall21/vinss-automation-suite-web)** | `VINSS_CODE_SNIPPETS.md` | 👉 **[Launch App](https://hekall21.github.io/vinss-automation-suite-web/)** | 📦 GitHub Pages |
 
 ---
 
