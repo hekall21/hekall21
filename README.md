@@ -37,12 +37,14 @@ mantra: "Mengubah baris kode menjadi realitas 3D dan alat yang bermanfaat nyata.
 | :--- | :--- | :--- | :--- |
 | **🌌 [Haikel 3D Portfolio](https://github.com/hekall21/haikel-3d-portfolio)** | **Official Personal 3D Website**. Menceritakan perjalanan saya, filosofi rekayasa, keahlian teknis lengkap, dan kontak langsung WhatsApp. | 👉 **[Buka Portofolio Saya](https://hekall21.github.io/haikel-3d-portfolio/)** | 🚀 **Vercel / Pages (Active)** |
 | **📸 [3D Device Mockup Studio](https://github.com/hekall21/mockup-3d-studio)** | **Alat Bermanfaat untuk Developer & Desainer**. Upload screenshot websitemu, tampilkan di laptop 3D interaktif Three.js, lalu export PNG resolusi tinggi gratis untuk GitHub README / Dribbble! | 👉 **[Gunakan Mockup Studio](https://hekall21.github.io/mockup-3d-studio/)** | 🚀 **Vercel / Pages (Active)** |
+| **📹 [CyberVision WebCam HUD](https://github.com/hekall21/cyber-vision-cam-3d)** | **Live Cyberpunk & Matrix WebCam**. Konversi kamera real-time menjadi kode Matrix hijau, thermal Predator vision, dan target reticle Iron Man dengan tombol download snapshot! | 👉 **[Coba Cyber Cam](https://hekall21.github.io/cyber-vision-cam-3d/)** | 🚀 **Vercel / Pages (Active)** |
+| **🌌 [3D Depth Particle Cam](https://github.com/hekall21/depth-particle-cam-3d)** | **Hologram 3D Wajah Real-Time**. Mengubah video webcam menjadi awan 4.800 partikel 3D Three.js. Kecerahan wajah mendorong kedalaman Z sehingga wajahmu bisa diputar dalam 3D! | 👉 **[Coba 3D Depth Cam](https://hekall21.github.io/depth-particle-cam-3d/)** | 🚀 **Vercel / Pages (Active)** |
 | **🕸️ [Spider-Man Portfolio](https://github.com/hekall21/spiderman-portofolio)** | **Cinematic Marvel WebXR**. Eksplorasi tema Spider-Man interaktif dengan sound synthesizer Web Audio dan responsivitas dinamis. | 👉 **[Buka Spider-Man Web](https://spiderman-portofolio.vercel.app)** | 🚀 **Vercel (Active)** |
 | **🪐 [Spatial Noir 3D](https://github.com/hekall21/spatial-noir-gallery)** | **Galeri 3D Luar Angkasa**. 4.000 partikel bintang, Torus hologram logam, pod pameran 3D yang bisa diklik untuk terbang sinematik, dan synthesizer audio 55Hz. | 👉 **[Buka 3D Galaxy](https://hekall21.github.io/spatial-noir-gallery/)** | 🚀 **Vercel / Pages (Active)** |
 
 ---
 
-### 🛠️ Koleksi Alat & Web Interaktif Lainnya (33 Repositori Aktif)
+### 🛠️ Koleksi Alat & Web Interaktif Lainnya (35 Repositori Aktif)
 
 | Kategori | Nama Proyek | Deskripsi | Link Demo |
 | :--- | :--- | :--- | :--- |
