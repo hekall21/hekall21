@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24&height=220&section=header&text=Haikel%20%7C%20Kaell&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Creative%20Developer%20%E2%80%A2%203D%20%26%20Spatial%20Web%20Technologist&descSize=18&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24&height=220&section=header&text=Haikel%20%7C%20Kaell&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Creative%20Developer%20%E2%80%A2%203D%20and%20Spatial%20Web%20Technologist&descSize=18&descAlignY=62" width="100%" />
 
   <p align="center">
     <a href="https://spiderman-portofolio.vercel.app"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-spiderman--portofolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
