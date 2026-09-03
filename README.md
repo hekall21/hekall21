@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- HERO BANNER (SANITIZED SVG XML ENTITIES) -->
+  <!-- HERO BANNER (SANITIZED SVG) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24&height=220&section=header&text=Haikel%20%7C%20Kaell&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Creative%20Developer%20%E2%80%A2%203D%20and%20Spatial%20Web%20Technologist&descSize=18&descAlignY=62" width="100%" />
 
   <p align="center">
@@ -27,6 +27,20 @@ mantra: "Turning lines of code into immersive spatial realities."
 
 ---
 
+### 🌐 Live Interactive Web Applications (GitHub Pages)
+
+| Interactive Web App | Architectural Specification | Live Demo Link |
+| :--- | :--- | :--- |
+| **🗺️ [Developer Roadmap Navigator](https://github.com/hekall21/developer-roadmap-tracker)** | `DEVELOPER_ROADMAP.md / roadmap.sh` | 👉 **[Launch Web App](https://hekall21.github.io/developer-roadmap-tracker/)** |
+| **🪐 [Produx Kinetic Studio](https://github.com/hekall21/produx-kinetic-studio-web)** | `DESIGN_2.md (Produx Studio)` | 👉 **[Launch Web App](https://hekall21.github.io/produx-kinetic-studio-web/)** |
+| **📐 [CAD Blueprint Canvas](https://github.com/hekall21/cad-blueprint-canvas)** | `DESIGN_4.md (Heron AI CAD)` | 👉 **[Launch Web App](https://hekall21.github.io/cad-blueprint-canvas/)** |
+| **⚡ [Linear Command Vault](https://github.com/hekall21/linear-command-vault)** | `DESIGN.md (Linear Neo-Dark)` | 👉 **[Launch Web App](https://hekall21.github.io/linear-command-vault/)** |
+| **🛠️ [Vinss Automation Suite](https://github.com/hekall21/vinss-automation-suite-web)** | `VINSS_CODE_SNIPPETS.md` | 👉 **[Launch Web App](https://hekall21.github.io/vinss-automation-suite-web/)** |
+| **🕸️ [Spider-Man Portfolio](https://github.com/hekall21/spiderman-portofolio)** | `Cinematic Neo-Brutalist` | 👉 **[Launch Web App](https://spiderman-portofolio.vercel.app)** |
+| **🌌 [Spatial 3D Gallery](https://github.com/hekall21/haikel-spatial-gallery)** | `Three.js WebXR` | 👉 **[Launch Web App](https://haikel-spatial-gallery.vercel.app)** |
+
+---
+
 ### 🛠️ Tech Stack & Arsenal
 
 <p align="left">
@@ -49,20 +63,6 @@ mantra: "Turning lines of code into immersive spatial realities."
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-### 🌟 Featured Flagship Repositories
-
-| Flagship Project | Architectural Standard | Focus & Highlights |
-| :--- | :--- | :--- |
-| **🕸️ [spiderman-portofolio](https://github.com/hekall21/spiderman-portofolio)** | `Cinematic Neo-Brutalist` | Interactive Spider-Man themed web portfolio with dynamic theme & SFX audio. |
-| **🌌 [haikel-spatial-gallery](https://github.com/hekall21/haikel-spatial-gallery)** | `Three.js WebXR` | Immersive 3D virtual art gallery with dynamic lighting & spatial physics. |
-| **🪐 [spatial-noir-gallery](https://github.com/hekall21/spatial-noir-gallery)** | `DESIGN_2.md (Produx Studio)` | Award-winning WebGL kinetic gallery with tactile photo nodes & spatial audio. |
-| **⚡ [linear-design-system](https://github.com/hekall21/linear-design-system)** | `DESIGN.md (Linear Modern)` | Enterprise neo-dark component system with Radix UI, Cmd+K & token architecture. |
-| **🚀 [omni-stream-engine](https://github.com/hekall21/omni-stream-engine)** | `Clean Architecture / Vinss Dev` | High-performance media extraction & unified AI gateway microservices engine. |
-| **💎 [nothin-paris-luxury](https://github.com/hekall21/nothin-paris-luxury)** | `DESIGN_3.md (Parisian Luxury)` | Experimental 3D lookbook with liquid chrome shaders & electric cobalt palette. |
-| **📐 [cad-blueprint-system](https://github.com/hekall21/cad-blueprint-system)** | `DESIGN_4.md (Heron AI CAD)` | Technical architectural CAD drafting dashboard with live telemetry streaming. |
 
 ---
 
