@@ -31,6 +31,7 @@ mantra: "Turning lines of code into immersive spatial realities."
 
 | Interactive Web App | Aesthetic / Architectural Design | Live Demo Link | Recommended Hosting |
 | :--- | :--- | :--- | :--- |
+| **🪐 [Spatial Noir 3D Universe](https://github.com/hekall21/spatial-noir-gallery)** | `Three.js 3D WebGL / R3F` | 👉 **[Launch 3D Web App](https://hekall21.github.io/spatial-noir-gallery/)** | 🚀 **Vercel (Top Pick ⭐)** |
 | **🕸️ [Spider-Man Portfolio](https://github.com/hekall21/spiderman-portofolio)** | `Cinematic Neo-Brutalist` | 👉 **[Launch App](https://spiderman-portofolio.vercel.app)** | 🚀 **Vercel (Active)** |
 | **🌌 [Spatial 3D Gallery](https://github.com/hekall21/haikel-spatial-gallery)** | `Three.js WebXR` | 👉 **[Launch App](https://haikel-spatial-gallery.vercel.app)** | 🚀 **Vercel (Active)** |
 | **📜 [Claude AI Studio](https://github.com/hekall21/claude-ai-studio)** | `Anthropic Claude Terracotta` | 👉 **[Launch App](https://hekall21.github.io/claude-ai-studio/)** | 🚀 **Vercel (Top Pick)** |
